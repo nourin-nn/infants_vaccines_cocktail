@@ -1,6 +1,4 @@
-# Infants Vaccines Cocktail
-
-Longitudinal Single-Cell Profiling of Young Infants Initial Vaccinations Reveals Extensive but Reversible Transcriptional Changes in Most Immune Cell Types
+# Young infants display heterogeneous serological responses and extensive but reversible transcriptional changes following initial immunizations
 
 ## Raw counts
 
