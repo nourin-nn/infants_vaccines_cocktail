@@ -3,6 +3,6 @@
 
 # Young infants display heterogeneous serological responses and extensive but reversible transcriptional changes following initial immunizations
 
-## Raw counts
+## Data availability
 
 The single cell RNA data generated in this study have been deposited in the GEO database under accession code GSE204716.
