@@ -5,4 +5,4 @@
 
 ## Raw counts
 
-Individual and aggregated raw counts are available in GEO:GSE204716
+The single cell RNA data generated in this study have been deposited in the GEO database under accession code GSE204716. The Bulk RNA data generated in this study have been deposited in the GEO database under accession code GSE237318.
